@@ -10,7 +10,7 @@ A Flutter application that generates random word pairs and allows users to favor
 - 🗑️ Remove favorites with a tap
 - 🎨 Navigation rail for smooth page switching
 
-## Screenshots
+## Screens
 
 The app features two main pages:
 - **Generator Page**: Display random word pairs with Like/Next buttons
@@ -28,7 +28,7 @@ The app features two main pages:
 1. Clone the repository:
 ```powershell
 git clone <repository-url>
-cd flutter_namer_app
+cd flutter_sample_app
 ```
 
 2. Install dependencies:
